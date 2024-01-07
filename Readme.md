@@ -12,4 +12,8 @@ Base Eggs
 Rare Eggs
 - Legendary
 
+<<<<<<< HEAD
 Holder with 20 or base eggs in a wallet, get a free legendary egg.
+=======
+Holder with 20 or base eggs in a wallet, get a free legendary egg.
+>>>>>>> 99a07ee (added .gitignore and and hardhat)
