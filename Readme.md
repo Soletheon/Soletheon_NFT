@@ -11,3 +11,5 @@ Base Eggs
     
 Rare Eggs
 - Legendary
+
+Holder with 20 or base eggs in a wallet, get a free legendary egg.
