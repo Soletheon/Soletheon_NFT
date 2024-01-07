@@ -1,10 +1,15 @@
 # Soletheon_NFT
 
-The Official NFT from Soletheon Team
+The Official Soletheon NFT
 
-Choose between 3 kinds of egg:
-- Organic
-- Mechanical
-- Cyborg
+Choose between 4 kinds of egg:
 
-And on every 20 NFT in a wallet you get on free legendary Egg.
+Base Eggs
+ 1. Organic
+ 2. Mechanical
+ 3. Cyborg
+    
+Rare Eggs
+- Legendary
+
+Holder with 20 or base eggs in a wallet, get a free legendary egg.
