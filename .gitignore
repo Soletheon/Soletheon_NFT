@@ -1,3 +1,6 @@
 hardhat.config.ts
 .env
 node_modules
+cache
+artifacts
+deployments
